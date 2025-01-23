@@ -19,7 +19,7 @@ Hi, I'm Franco, a passionate developer and technology enthusiast. 🌟 I love so
 - **Technologies**: C++, Python, Qt, KiCad.
 
 
-### 🎯 [SAPEI](https://github.com/ffpp2003/SAPEIClient)
+### 🎯 [SAPEI](https://github.com/fpp3/SAPEIClient)
 - **Description**: A hands-on assignment to use Object Oriented Programming, in order to solve a local problematic. We chose ingress/egress optimization of vehicles in the parking lot of our university.
 - **Technologies**: C, C++, Qt, make, git, avr-gcc, arduino-cli, doxygen, vim, Linux.
 
